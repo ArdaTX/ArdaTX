@@ -12,10 +12,10 @@ Pentester y dev desde Barranquilla. Construyo herramientas ofensivas y también 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ArdaTX&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-six-lime.vercel.app/api?username=ArdaTX&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaTX&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats-six-lime.vercel.app/api/top-langs/?username=ArdaTX&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
