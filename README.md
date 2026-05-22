@@ -15,7 +15,7 @@ Pentester y dev desde Barranquilla. Construyo herramientas ofensivas y también 
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArdaTX&theme=github_dark" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArdaTX&theme=github_dark" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArdaTX&theme=github_dark" alt="Top Languages" />
       </td>
     </tr>
   </table>
