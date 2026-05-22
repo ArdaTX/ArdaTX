@@ -36,6 +36,9 @@ Pentester y dev desde Barranquilla. Construyo herramientas ofensivas y también 
         <img src="https://img.shields.io/badge/Nmap-990000?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Burp%20Suite-CC4400?style=flat-square&logo=burpsuite&logoColor=white" />
         <img src="https://img.shields.io/badge/Metasploit-880000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nuclei-AA1111?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/DFIR-6B1A1A?style=flat-square&logoColor=white" />
       </td>
       <td valign="top" width="50%">
         <strong>💻 Development</strong><br/><br/>
